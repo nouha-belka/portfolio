@@ -5,6 +5,9 @@
     margin: 20px 170px;
 
 }
+.navbar-image{
+    width: 150px;
+}
 .nav-menu{
     display: flex;
     align-items: center;
@@ -15,7 +18,7 @@
 .nav-connect{
     padding: 20px 40px;
     border-radius: 50px;
-    background: linear-gradient(267deg, #DA7C25 0.36%, #b923E1 102.06%);
+    background: linear-gradient(267deg, #DA7C25 0.36%, #FF1595 102.06%);
     font-size: 22px;
     cursor: pointer;
     transition: 0.5s;

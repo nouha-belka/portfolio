@@ -10,7 +10,11 @@
 }
 .footer-top-left{
     font-size: 20px;
-    max-width: 400px;
+    max-width: 500px;
+}
+.footer-top-left img{
+    width: 150px;
+    /* margin-bottom: 30px; */
 }
 .footer-top-right{
     display: flex;
@@ -37,7 +41,7 @@
     font-size: 20px;
     padding: 22px 50px;
     border-radius: 50px;
-    background: linear-gradient(264deg, #DF8908 -5.09%, #B415FF 106.28%);
+    background: linear-gradient(264deg, #DF8908 -5.09%, #FF1595 106.28%);
     cursor: pointer;
     transition: 0.3s;
 }

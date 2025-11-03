@@ -17,36 +17,35 @@ const About = () => {
         <div className="about-right">
             <div className="about-para">
                 <p>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt, maxime. Id, vero dicta? Accusantium repudiandae dolorem possimus blanditiis quia aspernatur aut deleniti vitae? Nemo minus quaerat, porro voluptatum corrupti earum.
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt, maxime. Id, vero dicta? Accusantium repudiandae dolorem possimus blanditiis quia aspernatur aut deleniti vitae? Nemo minus quaerat, porro voluptatum corrupti earum.
+                    I build modern, scalable web and mobile applications that prioritize performance, usability, and maintainability. My experience spans full-stack web development with React, Redux, jQuery, Laravel, and MySQL, as well as cross-platform app development using React Native and Flutter. I enjoy turning ideas into polished products, from designing intuitive interfaces to implementing secure backend systems and integrating APIs, while maintaining clean, efficient, and version-controlled code.
                 </p>
                 <p>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Beatae nemo, veritatis aspernatur illum perferendis officia aut porro soluta accusamus reiciendis quisquam sint deserunt at quae rerum perspiciatis nisi voluptatem placeat.
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Beatae nemo, veritatis aspernatur illum perferendis officia aut porro soluta accusamus reiciendis quisquam sint deserunt at quae rerum perspiciatis nisi voluptatem placeat.
+                    I specialize in assessing and securing digital systems through hands-on penetration testing, vulnerability research, and security auditing. I have developed custom platforms for simulating real-world attacks and gained practical experience using Python, PHP, Metasploit, Nmap, Burp Suite, and Wireshark. My work also includes conducting security audits and ensuring compliance with industry standards such as NIST and PCI DSS, combining automated and manual techniques to identify weaknesses, exploit vulnerabilities safely, and provide actionable recommendations to strengthen security posture.
                 </p>
             </div>
             <div className="about-skills">
-                <div className="about-skill"><p>HTML&CSS</p><hr style={ {width:"50%"} }/></div>
-                <div className="about-skill"><p>React Js</p><hr style={ {width:"70%"} }/></div>
-                <div className="about-skill"><p>JavaScript</p><hr style={ {width:"60%"} }/></div>
-                <div className="about-skill"><p>PHP</p><hr style={ {width:"40%"} }/></div>
+                <div className="about-skill"><p>HTML&CSS</p><hr style={ {width:"80%"} }/></div>
+                <div className="about-skill"><p>React Js</p><hr style={ {width:"40%"} }/></div>
+                <div className="about-skill"><p>JavaScript</p><hr style={ {width:"50%"} }/></div>
+                <div className="about-skill"><p>PHP</p><hr style={ {width:"60%"} }/></div>
+                <div className="about-skill"><p>Python</p><hr style={ {width:"70%"} }/></div>
             </div>
         </div>
       </div>
         <div class="about-achievments">
             <div class="about-achievment">
-                <h1>10+</h1>
+                <h1>4+</h1>
                 <p>YEARS OF EXPERIENCE</p>
             </div>
             <hr/>
             <div class="about-achievment">
-                <h1>90+</h1>
+                <h1>20+</h1>
                 <p>PROJECTS COMPLETED</p>
             </div>
             <hr/>
             <div class="about-achievment">
-                <h1>15+</h1>
-                <p>HAPPY CLIENTS</p>
+                <h1>+10</h1>
+                <p>Workshops Delivered</p>
             </div>
         </div>
     </div>

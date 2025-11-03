@@ -37,7 +37,7 @@ const Contact = () => {
       <div class="contact-section">
         <dic class="contact-left">
             <h1>Let's Talk</h1>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vero perferendis nesciunt velit, sint at quod voluptas laudantium excepturi commodi totam architecto illum quia consequuntur reiciendis? Sit harum distinctio aliquid ipsa?</p>
+            <p>Have a question or an opportunity? Send me a message and I’ll get back to you.</p>
             <div class="contact-details">
                 <div class="contact-detail">
                     <img src={mail_icon} alt=""/>
@@ -45,11 +45,11 @@ const Contact = () => {
                 </div>
                 <div class="contact-detail">
                     <img src={location_icon} alt=""/>
-                    <p>+1 571-591-9183</p>
+                    <p>Virginia, United States</p>
                 </div>
                 <div class="contact-detail">
                     <img src={call_icon} alt=""/>
-                    <p>VA, United States</p>
+                    <p>+1 571-591-9183</p>
                 </div>
             </div>
         </dic>
