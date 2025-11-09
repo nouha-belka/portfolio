@@ -5,6 +5,9 @@ import mywork_data from "../../assets/mywork_data"
 import arrow_icon from "../../assets/arrow_icon.svg"
 
 const MyWork = () => {
+    const handleClick = (link) => {
+    window.open(link, "_blank", "noopener,noreferrer");
+  };
   return (
     <div id='work' className='mywork'>
         <div class="mywork-title">
@@ -13,7 +16,7 @@ const MyWork = () => {
         </div>      
         <div className='mywork-container'>
             {mywork_data.map((work,index)=>{
-                return <img key={index} src={work.w_img} alt=""/>
+                return <img key={index} src={work.w_img} alt="" onClick={() => handleClick(work.w_link)}/>
             })}
         </div>
         <div class="mywork-showmore">
