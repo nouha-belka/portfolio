@@ -16,31 +16,31 @@ const mywork_data = [
         w_no:2,
         w_name:"Web design",
         w_img:project2_img,
-        w_link:"https://github.com/nouha-belka/Dijkstra-Bellman-implementation/blob/main/README.md"
+        w_link:"https://drive.google.com/file/d/1RyyLFX6Eizhf7w7qJwnwaEbOj_jAjoY7/view?usp=sharing"
     },
     {
         w_no:3,
         w_name:"Web design",
         w_img:project3_img,
-        w_link:""
+        w_link:"https://khabech.dz/"
     },
     {
         w_no:4,
         w_name:"Web design",
         w_img:project4_img,
-        w_link:""
+        w_link:"https://github.com/nouha-belka/Dijkstra-Bellman-implementation/blob/main/README.md"
     },
     {
         w_no:5,
         w_name:"Web design",
         w_img:project5_img,
-        w_link:""
+        w_link:"https://drive.google.com/file/d/18YR4RaTxBEHwp_M4jbP-G9jLzGWkRrf2/view?usp=sharing"
     },
     {
         w_no:6,
         w_name:"Web design",
         w_img:project6_img, 
-        w_link:""
+        w_link:"https://github.com/nouha-belka/Digital-Certificate-simulator/blob/main/README.md"
     },
 ]
  
